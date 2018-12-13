@@ -1,0 +1,26 @@
+.center {
+  text-align: center;
+}
+
+.margin-top {
+  margin-top: 50px;
+}
+
+.margin-bottom {
+  margin-bottom: 25px;
+}
+
+.alert-success {
+  margin-top: 25px;
+  line-height: 4px;
+}
+
+/****** Hash Div *******/
+#hash {
+  font-family: monospace;
+}
+
+/****** Auto Mine ******/
+#auto {
+  display: none;
+}
